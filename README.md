@@ -26,7 +26,7 @@ https://tiempoapp.netlify.app
 ## API Reference
 
 ```http
-  https://www.themealdb.com/api.php
+  https://home.openweathermap.org
 ```
 
 <h1 align="center">Hi 👋, I'm Jefferson Pulido</h1>
